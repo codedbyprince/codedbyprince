@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prince! 👋</h1>
+<h1 align="center">Hi, I'm Sushant Kumar Prince! 👋</h1>
 <p align="center">🚀 Aspiring BCA Student | 💻 Future Full Stack Dev | 📍 India</p>
 
 ---
