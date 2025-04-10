@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/codedbyprince/codedbyprince/blob/main/banner.png" alt="Banner" />
-</p>
+![Banner](https://raw.githubusercontent.com/codedbyprince/codedbyprince/2b86c9085c31c6c3ba54720dbf5c22b432e59742/file_0000000014e062309e35d44ec149d6ef_conversation_id=67f76992-5e0c-8000-9735-8bb3849d000c&message_id=e82550ea-c631-47e5-9412-8146b4630562.png)
 <h1 align="center">Hi, I'm Sushant Kumar Prince! 👋</h1>
 <p align="center">🚀 Aspiring BCA Student | 💻 Future Full Stack Dev | 📍 India</p>
 
@@ -35,4 +33,5 @@
 
 ### 🌐 Connect with Me
 - Email: prince18925@gmail.com
-- Instagram: priinc.e.07
+- 
+  [![Instagram](https://img.shields.io/badge/@priinc.e.07-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priinc.e.07)
