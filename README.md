@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/codedbyprince/codedbyprince/blob/main/banner.png" alt="Banner" />
+</p>
 <h1 align="center">Hi, I'm Sushant Kumar Prince! 👋</h1>
 <p align="center">🚀 Aspiring BCA Student | 💻 Future Full Stack Dev | 📍 India</p>
 
