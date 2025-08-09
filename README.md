@@ -6,15 +6,18 @@
 
 ### 🔥 About Me
 - 🧠 Currently learning **C programming** 
-- 📚 Preparing for NIMCETE 
 - 💡 I believe in *learning by doing* and love building stuff!
 - ⚡ Fun fact: I code and chill with chai.
 
 ---
 
 ### 📌 Tech Stack (Learning & Exploring)
-- C Language
-- HTML, CSS (next!)
+- C 
+- C++
+- C#
+- Python
+- Java
+- HTML, CSS 
 - Git & GitHub
 
 ---
